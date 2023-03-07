@@ -12,6 +12,6 @@ public class PaperDecorator extends PaintingDecorator{
     }
 
     private String addPaperColor() {
-        return " + black";
+        return "in black color";
     }
 }
